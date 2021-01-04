@@ -1,0 +1,77 @@
+{
+  "clients": [
+    {
+      "idtype": "Opportunity Id",
+      "id": "43XXXXXX32",
+      "name": "test_japanese",
+      "industry": "Automobiles and Motor Vehicles",
+      "sub-industry": "Automotive & Transport",
+      "market": "market1",
+      "marketunit": 1,
+      "description": "dfjskkd"
+    },
+    {
+      "idtype": "Opportunity Id",
+      "id": "12XXXXXX89",
+      "name": "test_17",
+      "industry": "Banking Transaction ",
+      "sub-industry": "Banking",
+      "market": "market2",
+      "marketunit": 3,
+      "description": "dasskjkndcs ak"
+    },
+    {
+      "idtype": "Opportunity Id",
+      "id": "67XXXXXX61",
+      "name": "Navya_dec18",
+      "industry": "Technology ",
+      "sub-industry": "Technology",
+      "market": "market3",
+      "marketunit": 2,
+      "description": "dasskjkndcs ak"
+    },
+    {
+      "idtype": "Opportunity Id",
+      "id": "90XXXXXXX32",
+      "name": "Navya_test",
+      "industry": "Educational Services ",
+      "sub-industry": "Education",
+      "market": "market2",
+      "marketunit": 1,
+      "description": "dasskjkndcs ak"
+    },
+    {
+      "idtype": "Opportunity",
+      "id": "00XXXXXX44",
+      "name": "32434",
+      "upload": "",
+      "industry": "Commerce",
+      "sub-industry": "Commerce",
+      "market": "market1",
+      "marketunit": "5",
+      "description": "kasd kla"
+    },
+    {
+      "idtype": "Opportunity",
+      "id": "7897439053",
+      "name": "testKTClient",
+      "upload": "",
+      "industry": "Education",
+      "sub-industry": "Automobile",
+      "market": "market2",
+      "marketunit": "3",
+      "description": "df"
+    },
+    {
+      "idtype": "Opportunity",
+      "id": "12XXXXXX45",
+      "name": "test_18",
+      "upload": "",
+      "industry": "Commerce",
+      "sub-industry": "Education",
+      "market": "market2",
+      "marketunit": "2",
+      "description": "sds"
+    }
+  ]
+}
